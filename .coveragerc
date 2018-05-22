@@ -1,0 +1,10 @@
+[run]
+branch = True
+source = eagle
+omit = eagle/tests/*
+
+[paths]
+source = eagle
+
+[report]
+ignore_errors = True
